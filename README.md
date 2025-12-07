@@ -1,4 +1,5 @@
 👋 Hi there, I'm Alessandro!
+
 💻 Senior Software Engineer | Cloud & Embedded Systems
 
 I am a dedicated Senior Software Engineer with a passion for technology and a deep background spanning both embedded systems and modern cloud architectures.
