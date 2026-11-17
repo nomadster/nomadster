@@ -1,30 +1,35 @@
-👋 Hi there, I'm Alessandro!
+# Hi, I'm Alessandro Lensi 👋
 
-💻 Senior Software Engineer | Cloud & Embedded Systems
+**Senior Software Engineer | Cloud Services, Embedded Systems & Cartography**
 
-I am a dedicated Senior Software Engineer with a passion for technology and a deep background spanning both embedded systems and modern cloud architectures.
+I'm a software engineer with more than a decade of experience building software across embedded systems, digital cartography, and cloud services. I enjoy modernizing systems, improving processing performance, and helping teams deliver reliable software.
 
-I thrive on building robust, scalable solutions and am committed to continuous learning and technical excellence.
+## What I'm working on
 
-🚀 What I'm Doing Now
+I work on the Garmin Marine Cloud team, developing and maintaining Java and Spring Boot services. I'm also contributing to the transition of services and Jenkins pipelines from AWS and on-premises infrastructure to Azure and Azure DevOps, and supporting other teams through the migration.
 
-GARMIN Marine Cloud Team: I currently work as part of the GARMIN Marine Cloud team, where I focus on developing and maintaining web-based microservices.
+## Highlights
 
-Technology Stack: My daily work is primarily centered around Java and the Spring Boot framework to power our cloud solutions.
+- Improved legacy C++ track processing by updating map bitmaps incrementally instead of re-parsing the full collection. Throughput increased from **400 to 20,000 tracks per day**.
+- Mentored three engineers during a Spring Boot and RabbitMQ tile-publishing refactor, providing design guidance and support with technical decisions.
+- Built a high-resolution raster layer for premium cartography products.
+- Earlier at Garmin, designed a C++ cache that keeps map-tile file descriptors open for embedded chartplotters.
+- At Apparound, developed an ASP.NET Core service for digital contract signatures and web applications with React, Redux, Node.js, and ASP.NET.
+- At GruppoMeta, developed Node.js backend services and a custom markup language and parser for dictionary indexing.
 
-💡 My Technical Toolkit
+## Technical toolkit
 
-Category	Skills & Technologies
-Primary Languages	Java, C/C++, C#, JavaScript
-Additional Languages	Python
-Frameworks/Runtime	Spring Boot, Node.js
-Development Tools	Git, GitHub, Gerrit, Jenkins, Docker
-Domain Experience	Cloud Microservices, Embedded Systems (5 years on Multi-Functional Displays)
+- **Languages:** Java, C, C++, C#, JavaScript, Python
+- **Frameworks:** Spring Boot, Node.js, ASP.NET Core, React, Redux, AngularJS, Koa.js
+- **Infrastructure and tools:** Azure DevOps, AWS, Docker, RabbitMQ, PostgreSQL, Git, Jenkins, Gerrit
+- **Domains:** Cloud microservices, marine cartography, map-tile processing and publishing, embedded chartplotters
 
-🕹️ Outside of Coding
+## A little more about me
 
-When I'm not developing, I'm usually spending time with my family. I love to play LEGO™ with my two kids and my lovely wife!
+I have a BSc in Computer Science from the University of Pisa. In 2014, my team’s retro 2D platformer *Quattro* won the Popular Jury Award at the Pisa Internet Festival Game Jam.
 
-📫 Get In Touch
+Outside of work, I enjoy spending time with my wife and our two kids—and playing LEGO™ with them.
 
-[LinkedIN](https://www.linkedin.com/in/alessandrolensi/)
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/alessandrolensi/) · [GitHub](https://github.com/nomadster)
